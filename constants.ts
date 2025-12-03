@@ -70,7 +70,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     status: ItemStatus.SOLD,
     publishDate: "2024-05-01",
     viewCount: 45,
-    location: "花香园"
+    location: "二食堂"
   }
 ];
 

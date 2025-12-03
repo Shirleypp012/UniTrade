@@ -74,7 +74,7 @@ VALUES (${newProduct.sellerId}, '${newProduct.title}', '${newProduct.description
       </main>
 
       <footer className="bg-white border-t border-gray-100 py-8 text-center text-sm text-gray-400">
-        <p>© 2026 UniTrade Campus Market. Database Project Demo.</p>
+        <p>© 2024 UniTrade Campus Market. Database Project Demo.</p>
       </footer>
 
       <SqlPreviewModal 
