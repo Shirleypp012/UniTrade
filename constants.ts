@@ -42,7 +42,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     status: ItemStatus.AVAILABLE,
     publishDate: "2024-05-10",
     viewCount: 156,
-    location: "图书馆门口"
+    location: "又玄图书馆门口"
   },
   {
     id: 2,
@@ -56,7 +56,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     status: ItemStatus.AVAILABLE,
     publishDate: "2024-05-12",
     viewCount: 89,
-    location: "北区宿舍楼下"
+    location: "桃9宿舍楼下"
   },
   {
     id: 3,
@@ -70,7 +70,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     status: ItemStatus.SOLD,
     publishDate: "2024-05-01",
     viewCount: 45,
-    location: "二食堂"
+    location: "花香园"
   }
 ];
 
